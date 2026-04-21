@@ -48,4 +48,4 @@
 All tools in this repository are intended for **authorized security assessments only**. Always obtain written permission before conducting reconnaissance on targets you do not own. Unauthorized use may violate local and international laws.
 
 ## 📝 Author
-**José Carol Lemus Reyes** | OSINT Trained (Ekoparty)
+**José  Lemus ** | OSINT Trained (Ekoparty)
