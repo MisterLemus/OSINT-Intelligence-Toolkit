@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Domain Reconnaissance Tool
-Author: José Carol Lemus Reyes
+Author: José  Lemus 
 Training: Ekoparty OSINT Workshop
 LEGAL: Only use on domains you own or have written authorization
 """
